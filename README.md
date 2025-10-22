@@ -1,4 +1,3 @@
-# MyBio
 # Hoeng Reaksa — Full‑Stack Developer
 
 Hi, I’m Hoeng Reaksa. I build end‑to‑end web apps as a Full‑Stack Developer—shipping clean UIs, robust APIs, and reliable offline‑first experiences.
@@ -18,8 +17,21 @@ Hi, I’m Hoeng Reaksa. I build end‑to‑end web apps as a Full‑Stack Develo
   <img alt="Go Fiber" src="https://img.shields.io/badge/Go%20Fiber-00ADD8?logo=go&logoColor=white" />
 </p>
 
-## About
+
+
+## Work Experience
+
+- 2024 — Intern, National Polytechnic Institute of Cambodia (NPIC)
+  - Contributed to web development fundamentals and team workflows; built small features and learned modern frontend/backend tooling.
+
+- 02/2025 – 08/2025 — Web Developer, QL Management Company
+  - Delivered web features across the stack; collaborated with product and QA; improved performance and UX.
+
+- 08/2025 – Present — Software Developer, DaunPenh Data Center
+  - Building production-grade applications and services; focusing on reliability, scalability, and clean developer experience.
+
+ ## About
 - Name: Hoeng Reaksa
 - Role: Full‑Stack Developer
-- Focus: High‑quality UX, maintainable APIs, offline‑capable PWAs, and pragmatic DevOps.
+- Focus: High‑quality UX, maintainable APIs, offline‑capable PWAs.
 
