@@ -37,7 +37,7 @@ motto: "Ship fast, break nothing, document everything."
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,vue,nuxt,react,nextjs,astro&perline=6" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,go,mysql,mongodb,tailwind,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,go,mysql,mongodb,postgres,tailwind,docker&perline=7" />
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ motto: "Ship fast, break nothing, document everything."
 > Building production-grade applications & services — reliability, scalability, clean DX.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,go" height="26" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,go,mongodb,postgres,docker" height="26" />
 </p>
 
 **`02/2025 – 08/2025`** — **Web Developer** @ QL Management Company
@@ -77,7 +77,7 @@ motto: "Ship fast, break nothing, document everything."
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Poseidon9991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Poseidon9991&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Poseidon9991&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -86,6 +86,10 @@ motto: "Ship fast, break nothing, document everything."
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Poseidon9991&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poseidon9991&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -111,7 +115,7 @@ motto: "Ship fast, break nothing, document everything."
 
 ## ជីវប្រវត្តិ (ភាសាខ្មែរ)
 
-សួស្តី! ខ្ញុំឈ្មោះ **ហឹង រសា** — Full-Stack Developer ដែលចូលចិត្តសាងសង់ Web App ពេញលេញ៖ UI ស្អាត, API រឹងមាំ និង PWA ប្រើបានក្រៅបណ្តាញ។
+សួស្តី! ខ្ញុំឈ្មោះ **ហុឹង រក្សា** — Full-Stack Developer ដែលចូលចិត្តសាងសង់ Web App ពេញលេញ៖ UI ស្អាត, API រឹងមាំ និង PWA ប្រើបានក្រៅបណ្តាញ។
 
 ### បទពិសោធន៍ការងារ
 
