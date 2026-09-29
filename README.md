@@ -1,113 +1,139 @@
-# Hoeng Reaksa — Full‑Stack Developer
+<!-- ══════════════ HEADER ══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=200&section=header&text=Hoeng%20Reaksa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Cambodia&descAlignY=55&descSize=16" />
 
-Hi, I’m Hoeng Reaksa. I build end‑to‑end web apps as a Full‑Stack Developer—shipping clean UIs, robust APIs, and reliable offline‑first experiences.
-
-## Tech Stack
-
-<p align="left">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt.js&logoColor=white" />
-  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img alt="Go Fiber" src="https://img.shields.io/badge/Go%20Fiber-00ADD8?logo=go&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+end-to-end+web+apps+%F0%9F%9A%80;Laravel+%7C+Vue+%7C+React+%7C+Next.js+%7C+Go;Clean+UIs.+Robust+APIs.+Offline-first+PWAs." alt="Typing SVG" />
 </p>
 
-## About
-- Name: Hoeng Reaksa
-- Role: Full‑Stack Developer
-- Focus: High‑quality UX, maintainable APIs, offline‑capable PWAs, and pragmatic DevOps.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Poseidon9991&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/Poseidon9991?tab=followers">
+    <img src="https://img.shields.io/github/followers/Poseidon9991?label=Followers&style=for-the-badge&color=6366f1" alt="followers" />
+  </a>
+</p>
 
-## Work Experience
+---
 
-- 2024 — Intern, National Polytechnic Institute of Cambodia (NPIC)
-  - Contributed to web development fundamentals and team workflows; built small features and learned modern frontend/backend tooling.
-  - Tech:
-    <p>
-      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="20" />
-      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" height="20" />
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="20" />
-    </p>
+## 🧑‍💻 About Me
 
-- 02/2025 – 08/2025 — Web Developer, QL Management Company
-  - Delivered web features across the stack; collaborated with product and QA; improved performance and UX.
-  - Tech:
-    <p>
-      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="20" />
-      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" height="20" />
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="20" />
-    </p>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 08/2025 – Present — Software Developer, DaunPenh Data Center
-  - Building production-grade applications and services; focusing on reliability, scalability, and clean developer experience.
-  - Tech:
-    <p>
-      <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000" height="20" />
-      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="20" />
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20" />
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="20" />
-      <img alt="Go Fiber" src="https://img.shields.io/badge/Go%20Fiber-00ADD8?logo=go&logoColor=white" height="20" />
-    </p>
+```yaml
+name: Hoeng Reaksa
+role: Full-Stack Developer
+location: Cambodia 🇰🇭
+currently: Software Developer @ DaunPenh Data Center
+focus:
+  - High-quality UX & clean architecture
+  - Offline-capable PWAs & mobile-first SFA apps
+  - Pragmatic DevOps & reliable APIs
+motto: "Ship fast, break nothing, document everything."
+```
 
-## Education
+---
 
-- National Polytechnic Institute of Cambodia (NPIC) — Internship (2024)
-  - Focus on practical web development skills and team collaboration.
+## 🛠️ Tech Stack
 
-## Contact
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,vue,nuxt,react,nextjs,astro&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,go,mysql,mongodb,tailwind,docker&perline=6" />
+</p>
 
-- GitHub: https://github.com/Poseidon9991
-- Email: your.email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
+<p align="center">
+  <img src="https://img.shields.io/badge/Go%20Fiber-00ADD8?logo=go&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square" />
+</p>
+
+---
+
+## 💼 Work Experience
+
+**`08/2025 – Present`** — **Software Developer** @ DaunPenh Data Center
+> Building production-grade applications & services — reliability, scalability, clean DX.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,go" height="26" />
+</p>
+
+**`02/2025 – 08/2025`** — **Web Developer** @ QL Management Company
+> Delivered full-stack web features; collaborated with product & QA; improved performance and UX.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,mysql" height="26" />
+</p>
+
+**`2024`** — **Intern** @ National Polytechnic Institute of Cambodia (NPIC)
+> Web development fundamentals, team workflows, and modern frontend/backend tooling.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,mysql" height="26" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Poseidon9991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Poseidon9991&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poseidon9991&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Poseidon9991&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poseidon9991/Poseidon9991/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Poseidon9991/Poseidon9991/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Poseidon9991/Poseidon9991/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 🎓 Education
+
+- **National Polytechnic Institute of Cambodia (NPIC)** — Internship, 2024
+  - Practical web development & team collaboration
 
 ---
 
 ## ជីវប្រវត្តិ (ភាសាខ្មែរ)
 
-សួស្តី! ខ្ញុំឈ្មោះ ហឹង រសា ជា Full‑Stack Developer ដែលចូលចិត្តសាងសង់ Web App ពេញស្ទាក់—UI ស្អាត, API មានគុណភាព និង PWA ប្រើបានក្រៅបណ្តាញ។
+សួស្តី! ខ្ញុំឈ្មោះ **ហឹង រសា** — Full-Stack Developer ដែលចូលចិត្តសាងសង់ Web App ពេញលេញ៖ UI ស្អាត, API រឹងមាំ និង PWA ប្រើបានក្រៅបណ្តាញ។
 
 ### បទពិសោធន៍ការងារ
 
-- ២០២៤ — អនុវត្តការងារ (Intern) នៅ វិទ្យាស្ថានបច្ចេកវិទ្យាជាតិ កម្ពុជា (NPIC)
-  - រៀន‑អនុវត្ត Frontend/Backend និងការងារជាក្រុម។
-  - បច្ចេកវិទ្យា:
-    <p>
-      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="20" />
-      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" height="20" />
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="20" />
-    </p>
-
-- ០២/២០២៥ – ០៨/២០២៥ — Web Developer នៅ QL Management Company
-  - អភិវឌ្ឍមុខងារ Web, រួមការងារជាមួយ Product និង QA, និងកែលម្អការអនុវត្ត/ UX។
-  - បច្ចេកវិទ្យា:
-    <p>
-      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="20" />
-      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" height="20" />
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="20" />
-    </p>
-
-- ០៨/២០២៥ – បច្ចុប្បន្ន — Software Developer នៅ DaunPenh Data Center
-  - សង់ប្រព័ន្ធ Production ដល់‑ស្តង់ដារ, ផ្តោតលើភាពទុកចិត្តបាន និងសមត្ថភាពពង្រីក។
-  - បច្ចេកវិទ្យា:
-    <p>
-      <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000" height="20" />
-      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="20" />
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20" />
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="20" />
-      <img alt="Go Fiber" src="https://img.shields.io/badge/Go%20Fiber-00ADD8?logo=go&logoColor=white" height="20" />
-    </p>
+| កាលបរិច្ឆេទ | តួនាទី | ក្រុមហ៊ុន |
+|---|---|---|
+| ០៨/២០២៥ – បច្ចុប្បន្ន | Software Developer | DaunPenh Data Center |
+| ០២/២០២៥ – ០៨/២០២៥ | Web Developer | QL Management Company |
+| ២០២៤ | Intern (អនុវត្តការងារ) | NPIC |
 
 ### ការសិក្សា
 
 - វិទ្យាស្ថានបច្ចេកវិទ្យាជាតិ កម្ពុជា (NPIC) — អនុវត្តការងារ ឆ្នាំ ២០២៤
 
-### ទំនាក់ទំនង
+---
 
-- GitHub: https://github.com/Poseidon9991
-- Email: your.email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
+## 📬 Connect With Me
 
+<p align="center">
+  <a href="https://github.com/Poseidon9991"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:hongraksa097@gmail.com"><img src="https://img.shields.io/badge/hongraksa097@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/hoeng-reaksa-48b5842b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://t.me/ReaksaNamikaze"><img src="https://img.shields.io/badge/@ReaksaNamikaze-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:6366f1&height=120&section=footer" />
