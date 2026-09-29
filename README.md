@@ -76,28 +76,9 @@ motto: "Ship fast, break nothing, document everything."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poseidon9991&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Poseidon9991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
   <img height="165" src="https://streak-stats.demolab.com?user=Poseidon9991&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poseidon9991&theme=tokyonight" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Poseidon9991&theme=tokyonight" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Poseidon9991&theme=tokyonight&utcOffset=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Poseidon9991&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poseidon9991&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 
 ---
 
