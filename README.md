@@ -37,7 +37,7 @@ motto: "Ship fast, break nothing, document everything."
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,vue,nuxt,react,nextjs,astro&perline=6" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,go,mysql,mongodb,postgres,tailwind,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,go,mysql,mongodb,postgres,redis,tailwind,docker&perline=8" />
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ motto: "Ship fast, break nothing, document everything."
 > Building production-grade applications & services — reliability, scalability, clean DX.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,go,mongodb,postgres,docker" height="26" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,go,mongodb,postgres,redis,docker" height="26" />
 </p>
 
 **`02/2025 – 08/2025`** — **Web Developer** @ QL Management Company
@@ -92,17 +92,6 @@ motto: "Ship fast, break nothing, document everything."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poseidon9991&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poseidon9991/Poseidon9991/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Poseidon9991/Poseidon9991/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Poseidon9991/Poseidon9991/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 ---
 
