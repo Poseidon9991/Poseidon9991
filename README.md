@@ -10,8 +10,8 @@
   <a href="https://github.com/Poseidon9991?tab=followers">
     <img src="https://img.shields.io/github/followers/Poseidon9991?label=Followers&style=for-the-badge&color=6366f1" alt="followers" />
   </a>
-  <a href="https://poseidon9991.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-poseidon9991.github.io-146B45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
+  <a href="https://hoengreaksa.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-hoengreaksa.vercel.app-146B45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
   </a>
 </p>
 
@@ -146,7 +146,7 @@ motto: "Ship fast, break nothing, document everything."
   <a href="mailto:hongraksa097@gmail.com"><img src="https://img.shields.io/badge/hongraksa097@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/hoeng-reaksa-48b5842b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://t.me/ReaksaNamikaze"><img src="https://img.shields.io/badge/@ReaksaNamikaze-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://poseidon9991.github.io"><img src="https://img.shields.io/badge/Portfolio-146B45?logo=googlechrome&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://hoengreaksa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-146B45?logo=googlechrome&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:6366f1&height=120&section=footer" />
