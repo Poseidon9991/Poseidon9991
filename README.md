@@ -76,12 +76,18 @@ motto: "Ship fast, break nothing, document everything."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Poseidon9991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poseidon9991&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Poseidon9991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
   <img height="165" src="https://streak-stats.demolab.com?user=Poseidon9991&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poseidon9991&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poseidon9991&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Poseidon9991&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Poseidon9991&theme=tokyonight&utcOffset=7" />
 </p>
 
 <p align="center">
@@ -95,10 +101,14 @@ motto: "Ship fast, break nothing, document everything."
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-- **National Polytechnic Institute of Cambodia (NPIC)** — Internship, 2024
+- 🏫 **National Polytechnic Institute of Cambodia (NPIC)** — Internship, 2024
   - Practical web development & team collaboration
+- 🇸🇬 **Nanyang Polytechnic International, Singapore** — ASEAN–Republic of Korea TVET Mobility Program
+  - *IT Applications & Development* — Jan 10 to Feb 6, 2024
+- 🇨🇳 **Guangzhou Industry and Trade Technician College** — ILO–China South-South Cooperation Skills Development Network
+  - *Internet of Things (IoT) Online Training* — Dec 23-28, 2024 · Cert № `GZITTC-IN20240055`
 
 ---
 
@@ -114,9 +124,11 @@ motto: "Ship fast, break nothing, document everything."
 | ០២/២០២៥ – ០៨/២០២៥ | Web Developer | QL Management Company |
 | ២០២៤ | Intern (អនុវត្តការងារ) | NPIC |
 
-### ការសិក្សា
+### ការសិក្សា និងសញ្ញាបត្រ
 
 - វិទ្យាស្ថានបច្ចេកវិទ្យាជាតិ កម្ពុជា (NPIC) — អនុវត្តការងារ ឆ្នាំ ២០២៤
+- Nanyang Polytechnic International (សិង្ហបុរី) — ASEAN–ROK TVET, IT Applications & Development, ឆ្នាំ ២០២៤
+- Guangzhou Industry and Trade Technician College / ILO–China — វគ្គបណ្តុះបណ្តាល IoT តាមអនឡាញ, ឆ្នាំ ២០២៤
 
 ---
 
